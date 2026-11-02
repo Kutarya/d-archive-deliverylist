@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Invoice Atelier</string>
+    <string name="title_activity_main">Invoice Atelier</string>
+    <string name="package_name">com.faturaatolyesi.app</string>
+    <string name="custom_url_scheme">com.faturaatolyesi.app</string>
+</resources>

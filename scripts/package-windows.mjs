@@ -1,0 +1,13 @@
+import fs from 'node:fs/promises';
+import { createPackage } from '@electron/asar';
+import { spawn } from 'node:child_process';
+const pkg=JSON.parse(await fs.readFile('package.json','utf8'));
+const folder=`release/windows/app-unpacked-${pkg.version}`;
+await fs.mkdir(folder,{recursive:true});
+await fs.cp('node_modules/electron/dist',folder,{recursive:true});
+await fs.rename(`${folder}/electron.exe`,`${folder}/Invoice Atelier.exe`).catch(async e=>{if(e.code!=='EEXIST')throw e;});
+await fs.mkdir(`${folder}/resources`,{recursive:true});
+await createPackage('packaging/app',`${folder}/resources/app.asar`);
+console.log(`Windows app ${pkg.version} packaged.`);
+const child=spawn(process.execPath,['node_modules/electron-builder/cli.js','--prepackaged',folder,'--win','portable','--x64','--publish','never'],{stdio:'inherit',env:{...process.env,ELECTRON_BUILDER_COMPRESSION_LEVEL:process.env.ELECTRON_BUILDER_COMPRESSION_LEVEL||'3'}});
+const code=await new Promise(resolve=>child.on('exit',resolve));if(code)process.exitCode=code;

@@ -1,0 +1,7 @@
+{
+  "name": "fatura-atolyesi",
+  "version": "1.4.1",
+  "main": "electron/main.cjs",
+  "description": "Offline document archive: from photos to Excel with formulas",
+  "author": "Invoice Atelier"
+}

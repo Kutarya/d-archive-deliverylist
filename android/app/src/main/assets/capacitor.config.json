@@ -1,0 +1,13 @@
+{
+	"appId": "com.faturaatolyesi.app",
+	"appName": "Invoice Atelier",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false
+	},
+	"plugins": {
+		"Camera": {
+			"presentationStyle": "fullscreen"
+		}
+	}
+}

@@ -1,0 +1,1658 @@
+{
+  "INVOICE": {
+    "cs": "FAKTURA",
+    "tr": "FATURA"
+  },
+  "DOCUMENTS TO DATA": {
+    "cs": "Z DOKLADŮ NA DATA",
+    "tr": "BELGEDEN VERİYE"
+  },
+  "WORKSPACE": {
+    "cs": "PRACOVNÍ PROSTOR",
+    "tr": "ÇALIŞMA ALANI"
+  },
+  "Workspace": {
+    "cs": "Pracovní prostor",
+    "tr": "Çalışma alanı"
+  },
+  "Scan documents": {
+    "cs": "Skenovat doklady",
+    "tr": "Belge tara"
+  },
+  "My Excel archive": {
+    "cs": "Můj archiv Excelu",
+    "tr": "Excel arşivim"
+  },
+  "Backup and transfer": {
+    "cs": "Záloha a přenos",
+    "tr": "Yedekle ve aktar"
+  },
+  "Your documents, with you.": {
+    "cs": "Vaše doklady vždy s vámi.",
+    "tr": "Belgelerin seninle."
+  },
+  "Photos and records stay on this device.": {
+    "cs": "Fotografie a záznamy zůstávají v tomto zařízení.",
+    "tr": "Fotoğraflar ve kayıtlar bu cihazda saklanır."
+  },
+  "Works offline": {
+    "cs": "Funguje offline",
+    "tr": "Çevrimdışı çalışır"
+  },
+  "Version {version}": {
+    "cs": "Verze {version}",
+    "tr": "Sürüm {version}"
+  },
+  "Local workspace": {
+    "cs": "Místní pracovní prostor",
+    "tr": "Yerel çalışma alanı"
+  },
+  "Dismiss notification": {
+    "cs": "Zavřít oznámení",
+    "tr": "Bildirimi kapat"
+  },
+  "Dismiss error": {
+    "cs": "Zavřít chybu",
+    "tr": "Hatayı kapat"
+  },
+  "Opening archive…": {
+    "cs": "Otevírání archivu…",
+    "tr": "Arşiv açılıyor…"
+  },
+  "LESS PAPERWORK, MORE TIME": {
+    "cs": "MÉNĚ PAPÍROVÁNÍ, VÍCE ČASU",
+    "tr": "DAHA AZ EVRAK, DAHA ÇOK ZAMAN"
+  },
+  "Start with a photo.": {
+    "cs": "Začněte fotografií.",
+    "tr": "Bir fotoğrafla başla."
+  },
+  "Upload an invoice or delivery note. Review it and turn it into Excel.": {
+    "cs": "Nahrajte fakturu nebo dodací list. Zkontrolujte údaje a převeďte je do Excelu.",
+    "tr": "Faturanı veya teslimat fişini yükle. Kontrol et, Excel’e dönüştür."
+  },
+  "Safe on your device": {
+    "cs": "Bezpečně ve vašem zařízení",
+    "tr": "Cihazında, güvenle"
+  },
+  "Add a document": {
+    "cs": "Přidat doklad",
+    "tr": "Belgeyi ekle"
+  },
+  "Take or upload a photo": {
+    "cs": "Vyfotit nebo nahrát fotografii",
+    "tr": "Fotoğraf çek veya yükle"
+  },
+  "Review the details": {
+    "cs": "Zkontrolovat údaje",
+    "tr": "Bilgileri kontrol et"
+  },
+  "Read, edit and confirm": {
+    "cs": "Přečíst, upravit a potvrdit",
+    "tr": "Oku, düzenle ve onayla"
+  },
+  "Save to Excel": {
+    "cs": "Uložit do Excelu",
+    "tr": "Excel’e kaydet"
+  },
+  "New or existing file": {
+    "cs": "Nový nebo existující soubor",
+    "tr": "Yeni veya mevcut dosyaya"
+  },
+  "NEW DOCUMENT": {
+    "cs": "NOVÝ DOKLAD",
+    "tr": "YENİ BELGE"
+  },
+  "From paper,": {
+    "cs": "Z papíru",
+    "tr": "Kağıttaki bilgiler,"
+  },
+  "to organized Excel.": {
+    "cs": "do přehledného Excelu.",
+    "tr": "düzenli bir Excel’de."
+  },
+  "Extract details from invoices and delivery notes.": {
+    "cs": "Získejte údaje z faktur a dodacích listů.",
+    "tr": "Fatura ve teslimat fişlerindeki bilgileri aktar."
+  },
+  "Save one document or combine several invoices.": {
+    "cs": "Uložte jeden doklad nebo spojte více faktur.",
+    "tr": "Tek belgeyi ya da birden fazla faturayı birlikte kaydet."
+  },
+  "Take a photo": {
+    "cs": "Vyfotit doklad",
+    "tr": "Fotoğraf çek"
+  },
+  "Upload photos": {
+    "cs": "Nahrát fotografie",
+    "tr": "Fotoğraf yükle"
+  },
+  "JPG, PNG, WebP · Select multiple photos": {
+    "cs": "JPG, PNG, WebP · Vyberte více fotografií",
+    "tr": "JPG, PNG, WebP · Birden fazla fotoğraf seçebilirsin"
+  },
+  "{documents} awaiting review": {
+    "cs": "{documents} ke kontrole",
+    "tr": "Kontrolünü bekleyen: {documents}"
+  },
+  "Pick up where you left off.": {
+    "cs": "Pokračujte tam, kde jste skončili.",
+    "tr": "Yarım kaldığın yerden devam et."
+  },
+  "From photos to data": {
+    "cs": "Z fotografií na data",
+    "tr": "Fotoğraftan bilgiye"
+  },
+  "Extract document numbers, dates, companies and items.": {
+    "cs": "Získejte čísla dokladů, data, firmy a položky.",
+    "tr": "Belge no, tarih, firma ve ürün satırlarını al."
+  },
+  "Excel with formulas": {
+    "cs": "Excel se vzorci",
+    "tr": "Formüllü Excel"
+  },
+  "Calculations update with quantities, prices and tax.": {
+    "cs": "Výpočty se mění podle množství, cen a daně.",
+    "tr": "Miktar, fiyat ve vergiyle güncellenen hesaplar."
+  },
+  "One place for every file": {
+    "cs": "Všechny soubory na jednom místě",
+    "tr": "Tek yerde arşiv"
+  },
+  "Reopen your files as Excel, PDF or images.": {
+    "cs": "Otevírejte soubory jako Excel, PDF nebo obrázky.",
+    "tr": "Excel, PDF ve resim olarak tekrar aç."
+  },
+  "Recent files": {
+    "cs": "Poslední soubory",
+    "tr": "Son dosyalar"
+  },
+  "Open archive": {
+    "cs": "Otevřít archiv",
+    "tr": "Arşivi aç"
+  },
+  "Your first file will appear here": {
+    "cs": "Zde se zobrazí váš první soubor",
+    "tr": "İlk dosyan burada görünecek"
+  },
+  "Add a photo and save your reviewed documents to the archive.": {
+    "cs": "Přidejte fotografii a uložte zkontrolované doklady do archivu.",
+    "tr": "Bir fotoğraf ekle; onayladığın belgeler arşivinde saklansın."
+  },
+  "STEP 2 · REVIEW": {
+    "cs": "KROK 2 · KONTROLA",
+    "tr": "2. ADIM · KONTROL"
+  },
+  "Review the details.": {
+    "cs": "Zkontrolujte údaje.",
+    "tr": "Bilgileri birlikte kontrol edelim."
+  },
+  "Compare with the photo and fill in any missing details. Confirm to save to the archive.": {
+    "cs": "Porovnejte údaje s fotografií a doplňte chybějící informace. Potvrzením je uložíte do archivu.",
+    "tr": "Fotoğrafı karşılaştır, eksik alanları tamamla. Onayınla arşive kaydedilir."
+  },
+  "Add document": {
+    "cs": "Přidat doklad",
+    "tr": "Belge ekle"
+  },
+  "No documents awaiting review": {
+    "cs": "Žádné doklady ke kontrole",
+    "tr": "Kontrol bekleyen belge yok"
+  },
+  "Add a photo": {
+    "cs": "Přidat fotografii",
+    "tr": "Fotoğraf ekle"
+  },
+  "Document {number}": {
+    "cs": "Doklad {number}",
+    "tr": "Belge {number}"
+  },
+  "Review": {
+    "cs": "Zkontrolovat",
+    "tr": "Kontrol et"
+  },
+  "Ready": {
+    "cs": "Připraveno",
+    "tr": "Hazır"
+  },
+  "Source photo": {
+    "cs": "Zdrojová fotografie",
+    "tr": "Kaynak fotoğraf"
+  },
+  "Rotate photo": {
+    "cs": "Otočit fotografii",
+    "tr": "Fotoğrafı döndür"
+  },
+  "Rotating photo": {
+    "cs": "Otáčení fotografie",
+    "tr": "Fotoğraf döndürülüyor"
+  },
+  "Enlarge photo": {
+    "cs": "Zvětšit fotografii",
+    "tr": "Fotoğrafı büyüt"
+  },
+  "Uploaded document": {
+    "cs": "Nahraný doklad",
+    "tr": "Yüklenen belge"
+  },
+  "No source photo": {
+    "cs": "Zdrojová fotografie není k dispozici",
+    "tr": "Kaynak fotoğraf yok"
+  },
+  "Reading document again": {
+    "cs": "Opakované čtení dokladu",
+    "tr": "Belge tekrar okunuyor"
+  },
+  "Read again": {
+    "cs": "Přečíst znovu",
+    "tr": "Tekrar oku"
+  },
+  "Recognized text": {
+    "cs": "Rozpoznaný text",
+    "tr": "Okunan ham metin"
+  },
+  "No readable text was found in this photo. You can complete the fields manually.": {
+    "cs": "Na fotografii nebyl nalezen čitelný text. Údaje můžete vyplnit ručně.",
+    "tr": "Bu fotoğrafta okunabilen metin bulunamadı. Alanları elle doldurabilirsiniz."
+  },
+  "Handwriting and faint text may be missed. Check quantities and prices before saving.": {
+    "cs": "Rukopis a slabý tisk nemusí být rozpoznány. Před uložením zkontrolujte množství a ceny.",
+    "tr": "El yazısı ve silik alanlar eksik okunabilir. Kaydetmeden önce miktarları ve fiyatları kontrol et."
+  },
+  "Remove this pending document?": {
+    "cs": "Odstranit tento rozpracovaný doklad?",
+    "tr": "Bu bekleyen belge kaldırılsın mı?"
+  },
+  "Remove pending document": {
+    "cs": "Odstranit rozpracovaný doklad",
+    "tr": "Bekleyen belgeyi kaldır"
+  },
+  "Document details": {
+    "cs": "Údaje dokladu",
+    "tr": "Belge bilgileri"
+  },
+  "Editable": {
+    "cs": "Lze upravit",
+    "tr": "Düzenlenebilir"
+  },
+  "Document number *": {
+    "cs": "Číslo dokladu *",
+    "tr": "Belge numarası *"
+  },
+  "Document date": {
+    "cs": "Datum dokladu",
+    "tr": "Belge tarihi"
+  },
+  "e.g. DL-2026-001": {
+    "cs": "např. DL-2026-001",
+    "tr": "Örn. DL-2026-001"
+  },
+  "Document type": {
+    "cs": "Typ dokladu",
+    "tr": "Belge türü"
+  },
+  "Invoice": {
+    "cs": "Faktura",
+    "tr": "Fatura"
+  },
+  "Delivery note": {
+    "cs": "Dodací list",
+    "tr": "Teslimat fişi"
+  },
+  "Currency": {
+    "cs": "Měna",
+    "tr": "Para birimi"
+  },
+  "Supplier / seller": {
+    "cs": "Dodavatel / prodávající",
+    "tr": "Tedarikçi / satıcı"
+  },
+  "Buyer / customer": {
+    "cs": "Odběratel / zákazník",
+    "tr": "Alıcı / müşteri"
+  },
+  "Company or person name": {
+    "cs": "Název firmy nebo jméno osoby",
+    "tr": "Firma veya kişi adı"
+  },
+  "Tax, address and delivery details": {
+    "cs": "Daňové, adresní a dodací údaje",
+    "tr": "Vergi, adres ve teslimat bilgileri"
+  },
+  "Supplier tax ID": {
+    "cs": "IČO / DIČ dodavatele",
+    "tr": "Tedarikçi vergi no"
+  },
+  "Customer tax ID": {
+    "cs": "IČO / DIČ odběratele",
+    "tr": "Alıcı vergi no"
+  },
+  "Supplier address": {
+    "cs": "Adresa dodavatele",
+    "tr": "Tedarikçi adresi"
+  },
+  "Customer address": {
+    "cs": "Adresa odběratele",
+    "tr": "Alıcı adresi"
+  },
+  "Order number": {
+    "cs": "Číslo objednávky",
+    "tr": "Sipariş numarası"
+  },
+  "Transport method": {
+    "cs": "Způsob dopravy",
+    "tr": "Taşıma şekli"
+  },
+  "Vehicle registration": {
+    "cs": "SPZ vozidla",
+    "tr": "Araç plakası"
+  },
+  "Delivered by": {
+    "cs": "Předal",
+    "tr": "Teslim eden"
+  },
+  "Received by": {
+    "cs": "Převzal",
+    "tr": "Teslim alan"
+  },
+  "Items and amounts": {
+    "cs": "Položky a částky",
+    "tr": "Ürünler ve tutarlar"
+  },
+  "Add row": {
+    "cs": "Přidat řádek",
+    "tr": "Satır ekle"
+  },
+  "Item / description": {
+    "cs": "Položka / popis",
+    "tr": "Ürün / açıklama"
+  },
+  "Quantity": {
+    "cs": "Množství",
+    "tr": "Miktar"
+  },
+  "Unit": {
+    "cs": "Jednotka",
+    "tr": "Birim"
+  },
+  "Unit price": {
+    "cs": "Jednotková cena",
+    "tr": "Birim fiyat"
+  },
+  "Disc. %": {
+    "cs": "Sleva %",
+    "tr": "İnd. %"
+  },
+  "Discount %": {
+    "cs": "Sleva %",
+    "tr": "İndirim %"
+  },
+  "VAT %": {
+    "cs": "DPH %",
+    "tr": "KDV %"
+  },
+  "Total": {
+    "cs": "Celkem",
+    "tr": "Toplam"
+  },
+  "Item name": {
+    "cs": "Název položky",
+    "tr": "Ürün adı"
+  },
+  "{row}. item name": {
+    "cs": "{row}. název položky",
+    "tr": "{row}. ürün adı"
+  },
+  "{row}. {field}": {
+    "cs": "{row}. {field}",
+    "tr": "{row}. {field}"
+  },
+  "{row}. remove row": {
+    "cs": "{row}. odstranit řádek",
+    "tr": "{row}. satırı kaldır"
+  },
+  "Excel calculation: quantity × unit price − discount + VAT. Unspecified discount and VAT rates default to 0%.": {
+    "cs": "Výpočet v Excelu: množství × jednotková cena − sleva + DPH. Neuvedená sleva a DPH mají sazbu 0 %.",
+    "tr": "Excel hesabı: miktar × birim fiyat − indirim + KDV. Belirtilmeyen indirim ve KDV oranı %0’dır."
+  },
+  "Total shown in photo": {
+    "cs": "Celková částka na fotografii",
+    "tr": "Fotoğraftaki genel toplam"
+  },
+  "If available, for comparison": {
+    "cs": "Pro porovnání, pokud je uvedena",
+    "tr": "Karşılaştırmak için, varsa"
+  },
+  "Notes": {
+    "cs": "Poznámky",
+    "tr": "Notlar"
+  },
+  "Optional": {
+    "cs": "Volitelné",
+    "tr": "İsteğe bağlı"
+  },
+  "Subtotal": {
+    "cs": "Základ daně",
+    "tr": "Ara toplam"
+  },
+  "VAT": {
+    "cs": "DPH",
+    "tr": "KDV"
+  },
+  "Grand total": {
+    "cs": "Celková částka",
+    "tr": "Genel toplam"
+  },
+  "The calculated total differs from the document by {amount}.": {
+    "cs": "Vypočtená částka se od dokladu liší o {amount}.",
+    "tr": "Hesaplanan toplam ile belgedeki tutar arasında {amount} fark var."
+  },
+  "Back to upload": {
+    "cs": "Zpět k nahrávání",
+    "tr": "Belge eklemeye dön"
+  },
+  "Complete the missing fields": {
+    "cs": "Doplňte chybějící údaje",
+    "tr": "Eksik alanları tamamla"
+  },
+  "Ready to save": {
+    "cs": "Připraveno k uložení",
+    "tr": "Kaydetmeye hazır"
+  },
+  "Documents - {date}": {
+    "cs": "Doklady - {date}",
+    "tr": "Belgeler - {date}"
+  },
+  "Confirm details": {
+    "cs": "Potvrdit údaje",
+    "tr": "Bilgileri onayla"
+  },
+  "EVERYTHING IN ITS PLACE": {
+    "cs": "VŠE NA SVÉM MÍSTĚ",
+    "tr": "HER ŞEY YERLİ YERİNDE"
+  },
+  "Open approved documents, combine them in a file and export.": {
+    "cs": "Otevírejte schválené doklady, spojujte je do souboru a exportujte.",
+    "tr": "Onayladığın belgeleri aç, bir dosyada birleştir ve dışa aktar."
+  },
+  "New document": {
+    "cs": "Nový doklad",
+    "tr": "Yeni belge"
+  },
+  "Excel file": {
+    "cs": "Soubor Excelu",
+    "tr": "Excel dosyası"
+  },
+  "Approved documents": {
+    "cs": "Schválené doklady",
+    "tr": "Onaylanmış belgeler"
+  },
+  "On this device": {
+    "cs": "V tomto zařízení",
+    "tr": "Bu cihazda"
+  },
+  "Saved with source photos": {
+    "cs": "Uloženo se zdrojovými fotografiemi",
+    "tr": "Kaynak fotoğraflarıyla kayıtlı"
+  },
+  "Search archive": {
+    "cs": "Hledat v archivu",
+    "tr": "Arşivde ara"
+  },
+  "Search files, document numbers or companies…": {
+    "cs": "Hledat soubory, čísla dokladů nebo firmy…",
+    "tr": "Dosya, belge no veya firma ara…"
+  },
+  "Import Excel": {
+    "cs": "Importovat Excel",
+    "tr": "Excel içe aktar"
+  },
+  "Remove file {name}": {
+    "cs": "Odstranit soubor {name}",
+    "tr": "{name} dosyasını kaldır"
+  },
+  "{documents} · {rows} item rows": {
+    "cs": "{documents} · položek: {rows}",
+    "tr": "{documents} · {rows} ürün satırı"
+  },
+  "Imported Excel": {
+    "cs": "Importovaný Excel",
+    "tr": "İçe aktarılan Excel"
+  },
+  "Open file": {
+    "cs": "Otevřít soubor",
+    "tr": "Dosyayı aç"
+  },
+  "Your archive is ready for its first document": {
+    "cs": "Váš archiv čeká na první doklad",
+    "tr": "Arşivin ilk belgesini bekliyor"
+  },
+  "Upload a photo and confirm the details to see your file here.": {
+    "cs": "Nahrajte fotografii a potvrďte údaje. Soubor se zobrazí zde.",
+    "tr": "Fotoğraf ekleyip bilgileri onayladığında dosyan burada görünecek."
+  },
+  "Back to archive": {
+    "cs": "Zpět do archivu",
+    "tr": "Arşive dön"
+  },
+  "EXCEL FILE": {
+    "cs": "SOUBOR EXCELU",
+    "tr": "EXCEL DOSYASI"
+  },
+  "Add documents to this file": {
+    "cs": "Přidat doklady do souboru",
+    "tr": "Bu dosyaya belge ekle"
+  },
+  "Image": {
+    "cs": "Obrázek",
+    "tr": "Resim"
+  },
+  "Download Excel": {
+    "cs": "Stáhnout Excel",
+    "tr": "Excel indir"
+  },
+  "Download PDF": {
+    "cs": "Stáhnout PDF",
+    "tr": "PDF indir"
+  },
+  "Download image": {
+    "cs": "Stáhnout obrázek",
+    "tr": "Resim indir"
+  },
+  "The original imported Excel file is preserved.": {
+    "cs": "Původní importovaný soubor Excelu je zachován.",
+    "tr": "İçe aktarılan Excel’in aslı korunur."
+  },
+  "Opening original": {
+    "cs": "Otevírání originálu",
+    "tr": "Orijinal açılıyor"
+  },
+  "Download original Excel": {
+    "cs": "Stáhnout původní Excel",
+    "tr": "Orijinal Excel’i indir"
+  },
+  "Added invoices appear in a new Excel export with formulas.": {
+    "cs": "Přidané faktury budou v novém exportu Excelu se vzorci.",
+    "tr": "Eklenen faturalar yeni formüllü Excel çıktısında yer alır."
+  },
+  "Generated document": {
+    "cs": "Vytvořený doklad",
+    "tr": "Hazırlanan belge"
+  },
+  "Generated document image": {
+    "cs": "Obrázek vytvořeného dokladu",
+    "tr": "Oluşturulan belge resmi"
+  },
+  "Source invoice photo": {
+    "cs": "Zdrojová fotografie faktury",
+    "tr": "Kaynak fatura fotoğrafı"
+  },
+  "Saving photo": {
+    "cs": "Ukládání fotografie",
+    "tr": "Fotoğraf kaydediliyor"
+  },
+  "Download source photo": {
+    "cs": "Stáhnout zdrojovou fotografii",
+    "tr": "Kaynak fotoğrafı indir"
+  },
+  "This record has no source photo.": {
+    "cs": "Tento záznam nemá zdrojovou fotografii.",
+    "tr": "Bu kayıtta kaynak fotoğraf yok."
+  },
+  "TAKE YOUR RECORDS WITH YOU": {
+    "cs": "MĚJTE ZÁZNAMY S SEBOU",
+    "tr": "KAYITLARINI YANINDA TAŞI"
+  },
+  "Move your archive between computers, phones and tablets.": {
+    "cs": "Přenášejte archiv mezi počítači, telefony a tablety.",
+    "tr": "Bilgisayar, telefon ve tablet arasında arşivini taşı."
+  },
+  "Back up your archive": {
+    "cs": "Zálohovat celý archiv",
+    "tr": "Tüm arşivi yedekle"
+  },
+  "Photos, documents and pending drafts are saved in a single backup file.": {
+    "cs": "Fotografie, doklady a rozpracované návrhy se uloží do jednoho záložního souboru.",
+    "tr": "Fotoğraflar, belgeler ve bekleyen taslaklar tek yedek dosyasında saklanır."
+  },
+  "Preparing backup": {
+    "cs": "Příprava zálohy",
+    "tr": "Yedek hazırlanıyor"
+  },
+  "Archive backup saved.": {
+    "cs": "Záloha archivu byla uložena.",
+    "tr": "Arşiv yedeği kaydedildi."
+  },
+  "Create backup file": {
+    "cs": "Vytvořit zálohu",
+    "tr": "Yedek dosyası oluştur"
+  },
+  "Import a backup": {
+    "cs": "Importovat zálohu",
+    "tr": "Yedeği içe aktar"
+  },
+  "Add an archive from another device. Existing records are kept and duplicate documents are skipped.": {
+    "cs": "Přidejte archiv z jiného zařízení. Stávající záznamy zůstanou zachovány a duplicity se přeskočí.",
+    "tr": "Başka cihazdaki arşivini buraya ekle. Mevcut kayıtlar korunur, aynı belgeler tekrarlanmaz."
+  },
+  "Choose backup file": {
+    "cs": "Vybrat záložní soubor",
+    "tr": "Yedek dosyası seç"
+  },
+  "Open an existing Excel file": {
+    "cs": "Otevřít existující Excel",
+    "tr": "Önceki Excel’i aç"
+  },
+  "Reimport Excel files created by this app. Preview sheets from other Excel files.": {
+    "cs": "Importujte zpět soubory vytvořené touto aplikací. Prohlížejte listy ostatních souborů Excelu.",
+    "tr": "Bu uygulamadan oluşturulan Excel’leri yeniden arşive al. Diğer Excel dosyalarını sayfalarıyla önizle."
+  },
+  "Choose Excel file": {
+    "cs": "Vybrat soubor Excelu",
+    "tr": "Excel dosyası seç"
+  },
+  "Each device keeps its own archive. Transfer a backup file to move records between devices. Back up your records before uninstalling.": {
+    "cs": "Každé zařízení má vlastní archiv. Záznamy přenesete pomocí zálohy. Před odinstalací si archiv zálohujte.",
+    "tr": "Her cihaz kendi arşivini tutar. Kayıtları cihazlar arasında yedek dosyasıyla aktar. Uygulamayı kaldırmadan önce yedeğini al."
+  },
+  "From photos to Excel with formulas.": {
+    "cs": "Z fotografií do Excelu se vzorci.",
+    "tr": "Fotoğraftan formüllü Excel’e."
+  },
+  "My archive": {
+    "cs": "Můj archiv",
+    "tr": "Arşivim"
+  },
+  "Backup": {
+    "cs": "Záloha",
+    "tr": "Yedekle"
+  },
+  "Preparing your documents and formulas.": {
+    "cs": "Připravují se doklady a vzorce.",
+    "tr": "Belge ve formüller hazırlanıyor."
+  },
+  "Save to Excel file": {
+    "cs": "Uložit do souboru Excelu",
+    "tr": "Excel dosyasına kaydet"
+  },
+  "Close save dialog": {
+    "cs": "Zavřít ukládání",
+    "tr": "Kaydetmeyi kapat"
+  },
+  "Where should we save these?": {
+    "cs": "Kam chcete doklady uložit?",
+    "tr": "Hangi Excel’e kaydedelim?"
+  },
+  "Save {documents} to a new file or an existing Excel archive.": {
+    "cs": "Uložte {documents} do nového souboru nebo existujícího archivu Excelu.",
+    "tr": "{documents} yeni bir dosyaya veya arşivdeki Excel’e kaydedilsin."
+  },
+  "Create a new Excel file": {
+    "cs": "Vytvořit nový soubor Excelu",
+    "tr": "Yeni Excel dosyası oluştur"
+  },
+  "Start a new file for these documents.": {
+    "cs": "Pro tyto doklady vytvořit nový soubor.",
+    "tr": "Bu belgeler için yeni bir dosya aç."
+  },
+  "File name": {
+    "cs": "Název souboru",
+    "tr": "Dosya adı"
+  },
+  "Save each document to a separate Excel file": {
+    "cs": "Uložit každý doklad do samostatného souboru Excelu",
+    "tr": "Her belgeyi ayrı Excel dosyasına kaydet"
+  },
+  "I checked the difference between the calculated total and the document.": {
+    "cs": "Zkontroloval(a) jsem rozdíl mezi vypočtenou částkou a dokladem.",
+    "tr": "Hesaplanan toplam ile belge arasındaki farkı kontrol ettim."
+  },
+  "Confirm and save to archive": {
+    "cs": "Potvrdit a uložit do archivu",
+    "tr": "Onayla ve arşive kaydet"
+  },
+  "Excel, PDF and image exports are available on the next screen.": {
+    "cs": "Na další obrazovce budou k dispozici exporty do Excelu, PDF a obrázku.",
+    "tr": "Sonraki ekranda Excel, PDF ve resim çıktıları hazır."
+  },
+  "Take a document photo": {
+    "cs": "Vyfotit doklad",
+    "tr": "Belge fotoğrafı çek"
+  },
+  "Place the document in the frame": {
+    "cs": "Umístěte doklad do rámečku",
+    "tr": "Belgeyi çerçeveye yerleştir"
+  },
+  "Close camera": {
+    "cs": "Zavřít fotoaparát",
+    "tr": "Kamerayı kapat"
+  },
+  "Use good lighting and keep the whole page in the frame.": {
+    "cs": "Fotografujte za dobrého osvětlení a zachyťte celou stránku.",
+    "tr": "İyi ışıkta, kağıdın tamamını kadraja al."
+  },
+  "Capture and read photo": {
+    "cs": "Vyfotit a přečíst",
+    "tr": "Fotoğrafı çek ve oku"
+  },
+  "Photo view": {
+    "cs": "Zobrazení fotografie",
+    "tr": "Fotoğraf görünümü"
+  },
+  "Close photo": {
+    "cs": "Zavřít fotografii",
+    "tr": "Fotoğrafı kapat"
+  },
+  "Enlarged document photo": {
+    "cs": "Zvětšená fotografie dokladu",
+    "tr": "Belgenin büyük fotoğrafı"
+  },
+  "Remove from archive": {
+    "cs": "Odstranit z archivu",
+    "tr": "Arşivden kaldır"
+  },
+  "Remove this file from the archive?": {
+    "cs": "Odstranit tento soubor z archivu?",
+    "tr": "Dosya arşivden kaldırılsın mı?"
+  },
+  "This also removes its documents and source photos. Downloaded Excel files are kept.": {
+    "cs": "Odstraní se také doklady a zdrojové fotografie. Stažené soubory Excelu zůstanou zachovány.",
+    "tr": "İçindeki belgeler ve kaynak fotoğraflar da kaldırılır. İndirilen Excel dosyaları korunur."
+  },
+  "Cancel": {
+    "cs": "Zrušit",
+    "tr": "Vazgeç"
+  },
+  "Removing file": {
+    "cs": "Odstraňování souboru",
+    "tr": "Dosya kaldırılıyor"
+  },
+  "Remove": {
+    "cs": "Odstranit",
+    "tr": "Kaldır"
+  },
+  "No sheets to preview.": {
+    "cs": "Žádné listy k náhledu.",
+    "tr": "Önizlenecek sayfa yok."
+  },
+  "Excel preview": {
+    "cs": "Náhled Excelu",
+    "tr": "Excel önizlemesi"
+  },
+  "Workbook sheets": {
+    "cs": "Listy sešitu",
+    "tr": "Çalışma kitabının sayfaları"
+  },
+  "Preview shows the first 250 rows per sheet. Download the Excel file for all records.": {
+    "cs": "Náhled zobrazuje prvních 250 řádků každého listu. Všechny záznamy jsou ve staženém Excelu.",
+    "tr": "Önizlemede sayfa başına ilk 250 satır gösterilir. İndirilen Excel tüm kayıtları içerir."
+  },
+  "Your unfinished documents were saved. Continue from the review screen.": {
+    "cs": "Vaše rozpracované doklady byly zachovány. Pokračujte na obrazovce kontroly.",
+    "tr": "Yarım kalan belgeleriniz korundu. Kontrol ekranından devam edebilirsiniz."
+  },
+  "Saving": {
+    "cs": "Ukládání",
+    "tr": "Kaydediliyor"
+  },
+  "Saved on this device": {
+    "cs": "Uloženo v tomto zařízení",
+    "tr": "Cihaza kaydedildi"
+  },
+  "Save failed": {
+    "cs": "Uložení se nezdařilo",
+    "tr": "Kaydedilemedi"
+  },
+  "Save error: {message}": {
+    "cs": "Chyba ukládání: {message}",
+    "tr": "Kayıt hatası: {message}"
+  },
+  "Select up to 20 photos at a time.": {
+    "cs": "Najednou vyberte nejvýše 20 fotografií.",
+    "tr": "Tek seferde en fazla 20 fotoğraf seçebilirsiniz."
+  },
+  "Reading photos": {
+    "cs": "Čtení fotografií",
+    "tr": "Fotoğraflar okunuyor"
+  },
+  "Reading document {current} of {total}": {
+    "cs": "Čtení dokladu {current} z {total}",
+    "tr": "{current} / {total} belge okunuyor"
+  },
+  "{name} is already saved and was not added again.": {
+    "cs": "Soubor {name} již byl uložen a nebyl přidán znovu.",
+    "tr": "{name} zaten kayıtlı; tekrar eklenmedi."
+  },
+  "This photo could not be read automatically. Review and complete the fields manually.": {
+    "cs": "Fotografii se nepodařilo automaticky přečíst. Zkontrolujte a doplňte údaje ručně.",
+    "tr": "Fotoğraf otomatik okunamadı. Alanları elle kontrol ederek doldurun."
+  },
+  "Text recognition failed. Your photo was saved. You can enter the details manually.": {
+    "cs": "Rozpoznání textu se nezdařilo. Fotografie byla zachována. Údaje můžete zadat ručně.",
+    "tr": "Metin tanıma tamamlanamadı. Fotoğraf korundu; bilgileri elle girebilirsiniz."
+  },
+  "Opening camera": {
+    "cs": "Otevírání fotoaparátu",
+    "tr": "Kamera açılıyor"
+  },
+  "Could not open the camera. Check camera permissions or use Upload photos.": {
+    "cs": "Fotoaparát nelze otevřít. Zkontrolujte oprávnění nebo nahrajte fotografii.",
+    "tr": "Kamera açılamadı. Kamera iznini kontrol edin veya fotoğraf yükleyin."
+  },
+  "Preparing preview": {
+    "cs": "Příprava náhledu",
+    "tr": "Önizleme hazırlanıyor"
+  },
+  "Saving documents to archive": {
+    "cs": "Ukládání dokladů do archivu",
+    "tr": "Belgeler arşive kaydediliyor"
+  },
+  "Confirm that you have checked the difference between the document total and the calculated total.": {
+    "cs": "Potvrďte, že jste zkontrolovali rozdíl mezi částkou na dokladu a vypočteným součtem.",
+    "tr": "Belgedeki toplam ile hesaplanan toplam arasındaki farkı kontrol ettiğinizi işaretleyin."
+  },
+  "Documents saved. Open them as Excel, PDF or images.": {
+    "cs": "Doklady byly uloženy. Otevřete je jako Excel, PDF nebo obrázky.",
+    "tr": "Belgeler kaydedildi. Excel, PDF veya resim olarak açabilirsiniz."
+  },
+  "Preparing file": {
+    "cs": "Příprava souboru",
+    "tr": "Dosya hazırlanıyor"
+  },
+  "This workbook has no recognized invoices. You can download the original Excel file.": {
+    "cs": "Sešit neobsahuje rozpoznané faktury. Můžete stáhnout původní soubor Excelu.",
+    "tr": "Bu Excel’de tanınan fatura kaydı yok. Orijinal Excel dosyasını indirebilirsiniz."
+  },
+  "File saved.": {
+    "cs": "Soubor byl uložen.",
+    "tr": "Dosya kaydedildi."
+  },
+  "Opening Excel": {
+    "cs": "Otevírání Excelu",
+    "tr": "Excel açılıyor"
+  },
+  "Excel file added to the archive.": {
+    "cs": "Soubor Excelu byl přidán do archivu.",
+    "tr": "Excel dosyası arşive alındı."
+  },
+  "The original Excel file was archived. Files from other apps open as previews.": {
+    "cs": "Původní Excel byl uložen do archivu. Soubory z jiných aplikací se otevírají jako náhled.",
+    "tr": "Excel’in aslı arşive alındı. Diğer uygulamaların dosyaları önizleme olarak açılır."
+  },
+  "Importing backup": {
+    "cs": "Importování zálohy",
+    "tr": "Yedek içeri alınıyor"
+  },
+  "Backup merged. {count} files added; existing records preserved.": {
+    "cs": "Záloha byla sloučena. Přidáno souborů: {count}. Stávající záznamy byly zachovány.",
+    "tr": "Yedek birleştirildi. {count} dosya eklendi; mevcut kayıtlar korundu."
+  },
+  "Document {number}: {message}": {
+    "cs": "Doklad {number}: {message}",
+    "tr": "Belge {number}: {message}"
+  },
+  "Enter a document number.": {
+    "cs": "Zadejte číslo dokladu.",
+    "tr": "Belge numarasını girin."
+  },
+  "Enter a supplier or customer.": {
+    "cs": "Zadejte dodavatele nebo odběratele.",
+    "tr": "Tedarikçi veya alıcı bilgisini girin."
+  },
+  "Add at least one item.": {
+    "cs": "Přidejte alespoň jednu položku.",
+    "tr": "En az bir ürün ekleyin."
+  },
+  "Row {row}: enter an item name.": {
+    "cs": "Řádek {row}: zadejte název položky.",
+    "tr": "{row}. satırın ürün adını girin."
+  },
+  "Row {row}: quantity must be greater than zero.": {
+    "cs": "Řádek {row}: množství musí být větší než nula.",
+    "tr": "{row}. satırın miktarı sıfırdan büyük olmalı."
+  },
+  "Row {row}: enter a valid unit price.": {
+    "cs": "Řádek {row}: zadejte platnou jednotkovou cenu.",
+    "tr": "{row}. satırın geçerli birim fiyatını girin."
+  },
+  "Row {row}: {field} must be between 0 and 100%.": {
+    "cs": "Řádek {row}: {field} musí být v rozsahu 0 až 100 %.",
+    "tr": "{row}. satır: {field} %0–100 arasında olmalı."
+  },
+  "Enter a valid document total.": {
+    "cs": "Zadejte platnou celkovou částku dokladu.",
+    "tr": "Belgedeki toplam geçerli bir tutar olmalı."
+  },
+  "Discount": {
+    "cs": "Sleva",
+    "tr": "İndirim"
+  },
+  "This is not a valid Invoice Atelier backup.": {
+    "cs": "Toto není platná záloha aplikace Invoice Atelier.",
+    "tr": "Bu dosya geçerli bir Invoice Atelier yedeği değil."
+  },
+  "Invalid archive record.": {
+    "cs": "Neplatný záznam archivu.",
+    "tr": "Arşiv kaydı geçersiz."
+  },
+  "Invalid document data.": {
+    "cs": "Neplatné údaje dokladu.",
+    "tr": "Belge verisi geçersiz."
+  },
+  "Invalid item data.": {
+    "cs": "Neplatné údaje položky.",
+    "tr": "Ürün verisi geçersiz."
+  },
+  "No documents to save.": {
+    "cs": "Žádné doklady k uložení.",
+    "tr": "Kaydedilecek belge yok."
+  },
+  "These documents are already in the archive.": {
+    "cs": "Tyto doklady již jsou v archivu.",
+    "tr": "Bu belgeler zaten arşivde kayıtlı."
+  },
+  "The selected Excel archive was not found.": {
+    "cs": "Vybraný archiv Excelu nebyl nalezen.",
+    "tr": "Seçilen Excel arşivi bulunamadı."
+  },
+  "New document file": {
+    "cs": "Nový soubor dokladů",
+    "tr": "Yeni belge dosyası"
+  },
+  "Could not read the file.": {
+    "cs": "Soubor nelze přečíst.",
+    "tr": "Dosya okunamadı."
+  },
+  "The photo exceeds the 35 MB limit.": {
+    "cs": "Fotografie překračuje limit 35 MB.",
+    "tr": "Fotoğraf 35 MB sınırını aşıyor."
+  },
+  "Could not open this image. Use JPG, PNG or WebP.": {
+    "cs": "Obrázek nelze otevřít. Použijte JPG, PNG nebo WebP.",
+    "tr": "Bu resim açılamadı. JPG, PNG veya WebP kullanın."
+  },
+  "A required part of the Excel workbook is missing.": {
+    "cs": "Chybí požadovaná část sešitu Excelu.",
+    "tr": "Excel çalışma kitabının gerekli bir parçası eksik."
+  },
+  "Could not read the Excel XML content.": {
+    "cs": "Nelze přečíst XML obsah Excelu.",
+    "tr": "Excel XML içeriği okunamadı."
+  },
+  "Excel previews support up to 100,000 rows per sheet.": {
+    "cs": "Náhled podporuje nejvýše 100 000 řádků na list.",
+    "tr": "Önizleme için sayfa başına en fazla 100.000 satır desteklenir."
+  },
+  "Sheet": {
+    "cs": "List",
+    "tr": "Sayfa"
+  },
+  "Summary": {
+    "cs": "Přehled",
+    "tr": "Özet"
+  },
+  "Invoices": {
+    "cs": "Faktury",
+    "tr": "Faturalar"
+  },
+  "Items": {
+    "cs": "Položky",
+    "tr": "Kalemler"
+  },
+  "Document totals are calculated separately by currency. Edit the blue cells on the Items sheet.": {
+    "cs": "Součty dokladů se počítají zvlášť podle měny. Upravujte modré buňky na listu Položky.",
+    "tr": "Belge tutarları para birimine göre ayrı hesaplanır. Kalemler sayfasındaki mavi hücreleri düzenleyin."
+  },
+  "Invoice list": {
+    "cs": "Seznam faktur",
+    "tr": "Fatura listesi"
+  },
+  "Each row is an approved document. Amounts are calculated from the Items sheet.": {
+    "cs": "Každý řádek je schválený doklad. Částky se počítají z listu Položky.",
+    "tr": "Her satır onaylanmış bir belgedir. Tutarlar Kalemler sayfasından hesaplanır."
+  },
+  "Amounts recalculate when quantity, unit price, discount or VAT changes. Unspecified discount and VAT rates default to 0%.": {
+    "cs": "Částky se přepočítají při změně množství, jednotkové ceny, slevy nebo DPH. Neuvedená sleva a DPH mají sazbu 0 %.",
+    "tr": "Miktar, birim fiyat, indirim veya KDV değişince tutarlar yeniden hesaplanır. Belirtilmeyen indirim ve KDV oranı %0’dır."
+  },
+  "Documents": {
+    "cs": "Doklady",
+    "tr": "Belgeler"
+  },
+  "Record ID": {
+    "cs": "ID záznamu",
+    "tr": "Kayıt kimliği"
+  },
+  "Document no.": {
+    "cs": "Číslo dokladu",
+    "tr": "Belge no"
+  },
+  "Type": {
+    "cs": "Typ",
+    "tr": "Tür"
+  },
+  "Date": {
+    "cs": "Datum",
+    "tr": "Tarih"
+  },
+  "Supplier": {
+    "cs": "Dodavatel",
+    "tr": "Tedarikçi"
+  },
+  "Customer": {
+    "cs": "Odběratel",
+    "tr": "Alıcı"
+  },
+  "Document total": {
+    "cs": "Částka na dokladu",
+    "tr": "Belgedeki toplam"
+  },
+  "Difference": {
+    "cs": "Rozdíl",
+    "tr": "Fark"
+  },
+  "Gross amount": {
+    "cs": "Hrubá částka",
+    "tr": "Brüt tutar"
+  },
+  "Net amount": {
+    "cs": "Čistá částka",
+    "tr": "Net tutar"
+  },
+  "VAT amount": {
+    "cs": "Částka DPH",
+    "tr": "KDV tutarı"
+  },
+  "Supplier not specified": {
+    "cs": "Dodavatel neuveden",
+    "tr": "Tedarikçi belirtilmedi"
+  },
+  "Customer not specified": {
+    "cs": "Odběratel neuveden",
+    "tr": "Alıcı belirtilmedi"
+  },
+  "Order no.": {
+    "cs": "Číslo objednávky",
+    "tr": "Sipariş no"
+  },
+  "Transport / plate": {
+    "cs": "Doprava / SPZ",
+    "tr": "Taşıma / plaka"
+  },
+  "Delivered / received by": {
+    "cs": "Předal / převzal",
+    "tr": "Teslim eden / alan"
+  },
+  "The Excel file exceeds the 70 MB limit.": {
+    "cs": "Soubor Excelu překračuje limit 70 MB.",
+    "tr": "Excel dosyası 70 MB sınırını aşıyor."
+  },
+  "Could not load the PDF font.": {
+    "cs": "Nelze načíst písmo PDF.",
+    "tr": "PDF yazı tipi yüklenemedi."
+  },
+  "Not specified": {
+    "cs": "Neuvedeno",
+    "tr": "Belirtilmedi"
+  },
+  "Tax ID": {
+    "cs": "IČO / DIČ",
+    "tr": "Vergi no"
+  },
+  "Address": {
+    "cs": "Adresa",
+    "tr": "Adres"
+  },
+  "Transport: {transport}": {
+    "cs": "Doprava: {transport}",
+    "tr": "Taşıma: {transport}"
+  },
+  "Received by: {name}": {
+    "cs": "Převzal: {name}",
+    "tr": "Teslim alan: {name}"
+  },
+  "Delivered by: {name}": {
+    "cs": "Předal: {name}",
+    "tr": "Teslim eden: {name}"
+  },
+  "This document is too long for a single image. Use the PDF export to include every page.": {
+    "cs": "Doklad je příliš dlouhý pro jeden obrázek. Použijte PDF se všemi stránkami.",
+    "tr": "Bu belge tek resim için çok uzun. Tüm sayfalar için PDF çıktısını kullanın."
+  },
+  "Could not create the image.": {
+    "cs": "Obrázek nelze vytvořit.",
+    "tr": "Resim oluşturulamadı."
+  },
+  "PDF page {number}": {
+    "cs": "Stránka PDF {number}",
+    "tr": "PDF sayfa {number}"
+  },
+  "Could not preview PDF. Use Download PDF to open the file.": {
+    "cs": "Náhled PDF se nezdařil. Soubor otevřete tlačítkem Stáhnout PDF.",
+    "tr": "PDF önizlenemedi. PDF indir ile dosyayı açabilirsiniz."
+  },
+  "Settings": {
+    "cs": "Nastavení",
+    "tr": "Ayarlar"
+  },
+  "LANGUAGE AND OUTPUTS": {
+    "cs": "JAZYK A VÝSTUPY",
+    "tr": "DİL VE ÇIKTILAR"
+  },
+  "Choose the language for your workspace and exported documents.": {
+    "cs": "Vyberte jazyk aplikace a exportovaných dokladů.",
+    "tr": "Çalışma alanının ve dışa aktarılan belgelerin dilini seç."
+  },
+  "Interface language": {
+    "cs": "Jazyk aplikace",
+    "tr": "Arayüz dili"
+  },
+  "Menus, settings, buttons and messages use this language.": {
+    "cs": "Tento jazyk se používá pro nabídky, nastavení, tlačítka a zprávy.",
+    "tr": "Menüler, ayarlar, düğmeler ve mesajlar bu dili kullanır."
+  },
+  "Output language": {
+    "cs": "Jazyk výstupů",
+    "tr": "Çıktı dili"
+  },
+  "Excel sheets and headings, PDF documents and generated images use this language.": {
+    "cs": "Tento jazyk se používá pro listy a záhlaví Excelu, dokumenty PDF a vytvářené obrázky.",
+    "tr": "Excel sayfaları ve başlıkları, PDF belgeleri ve oluşturulan resimler bu dili kullanır."
+  },
+  "Use interface language for outputs": {
+    "cs": "Použít jazyk aplikace i pro výstupy",
+    "tr": "Çıktılarda arayüz dilini kullan"
+  },
+  "Language choices are saved on this device. Source photos, names and entered document content are preserved.": {
+    "cs": "Volby jazyka se ukládají v tomto zařízení. Zdrojové fotografie, názvy a zadaný obsah dokladů zůstanou zachovány.",
+    "tr": "Dil seçimleri bu cihazda saklanır. Kaynak fotoğraflar, isimler ve girilen belge içeriği korunur."
+  },
+  "Output previews update when you change the output language.": {
+    "cs": "Při změně jazyka výstupů se aktualizují náhledy.",
+    "tr": "Çıktı dili değiştiğinde önizlemeler güncellenir."
+  },
+  "Invalid language settings.": {
+    "cs": "Neplatné nastavení jazyka.",
+    "tr": "Dil ayarları geçersiz."
+  },
+  "Something went wrong. Please try again.": {
+    "cs": "Něco se nezdařilo. Zkuste to prosím znovu.",
+    "tr": "İşlem tamamlanamadı. Lütfen tekrar deneyin."
+  },
+  "Could not read the archive. Existing files were preserved.": {
+    "cs": "Archiv nelze přečíst. Stávající soubory byly zachovány.",
+    "tr": "Arşiv okunamadı. Mevcut dosyalar korundu."
+  },
+  "Could not read the archive. Your data was preserved.": {
+    "cs": "Archiv nelze přečíst. Vaše data byla zachována.",
+    "tr": "Arşiv okunamadı. Veriler korundu."
+  },
+  "Could not save the archive.": {
+    "cs": "Archiv nelze uložit.",
+    "tr": "Arşiv kaydedilemedi."
+  },
+  "Could not read the photo.": {
+    "cs": "Fotografii nelze přečíst.",
+    "tr": "Fotoğraf okunamadı."
+  },
+  "Could not read the text. Try a clearer photo.": {
+    "cs": "Text nelze přečíst. Zkuste ostřejší fotografii.",
+    "tr": "Metin okunamadı. Daha net bir fotoğraf deneyin."
+  },
+  "Could not decode the photo.": {
+    "cs": "Fotografii nelze zpracovat.",
+    "tr": "Fotoğraf çözümlenemedi."
+  },
+  "The file is too large.": {
+    "cs": "Soubor je příliš velký.",
+    "tr": "Dosya çok büyük."
+  },
+  "Could not prepare the file.": {
+    "cs": "Soubor nelze připravit.",
+    "tr": "Dosya hazırlanamadı."
+  },
+  "Could not save the file.": {
+    "cs": "Soubor nelze uložit.",
+    "tr": "Dosya kaydedilemedi."
+  },
+  "Invalid archive.": {
+    "cs": "Neplatný archiv.",
+    "tr": "Geçersiz arşiv."
+  },
+  "Access denied.": {
+    "cs": "Přístup odepřen.",
+    "tr": "Erişim reddedildi."
+  },
+  "Invalid file size.": {
+    "cs": "Neplatná velikost souboru.",
+    "tr": "Dosya boyutu geçersiz."
+  },
+  "Save file": {
+    "cs": "Uložit soubor",
+    "tr": "Dosyayı kaydet"
+  },
+  "Save": {
+    "cs": "Uložit",
+    "tr": "Kaydet"
+  },
+  "pcs": {
+    "cs": "ks",
+    "tr": "adet"
+  },
+  "box": {
+    "cs": "krabice",
+    "tr": "kutu"
+  },
+  "source": {
+    "cs": "zdroj",
+    "tr": "kaynak"
+  },
+  "Camera": {
+    "cs": "Fotoaparat",
+    "tr": "Kamera"
+  },
+  "Invoice-Atelier-Backup-{date}.json": {
+    "cs": "Invoice-Atelier-Zaloha-{date}.json",
+    "tr": "Invoice-Atelier-Yedek-{date}.json"
+  },
+  "Read this photo again?": {
+    "cs": "Načíst tuto fotografii znovu?",
+    "tr": "Bu fotoğraf yeniden okunsun mu?"
+  },
+  "This replaces extracted details, including manual corrections. The source photo is kept.": {
+    "cs": "Načtené údaje včetně ručních oprav budou nahrazeny. Zdrojová fotografie zůstane zachována.",
+    "tr": "Elle yapılan düzeltmeler dahil okunan bilgiler yenilenir. Kaynak fotoğraf korunur."
+  },
+  "Read and replace details": {
+    "cs": "Načíst a nahradit údaje",
+    "tr": "Oku ve bilgileri yenile"
+  },
+  "Document details were extracted. Check handwriting and amounts before saving.": {
+    "cs": "Údaje z dokladu byly načteny. Před uložením zkontrolujte rukopis a částky.",
+    "tr": "Belge bilgileri okundu. Kaydetmeden önce el yazısını ve tutarları kontrol edin."
+  },
+  "Some details could not be extracted. Compare the photo and complete the missing fields.": {
+    "cs": "Některé údaje se nepodařilo načíst. Porovnejte fotografii a doplňte chybějící pole.",
+    "tr": "Bazı bilgiler okunamadı. Fotoğrafla karşılaştırıp eksik alanları tamamlayın."
+  },
+  "No document details were extracted. Try a closer, well-lit photo or enter the details manually.": {
+    "cs": "Z dokladu se nepodařilo načíst údaje. Zkuste bližší, dobře osvětlenou fotografii nebo údaje zadejte ručně.",
+    "tr": "Belge bilgileri okunamadı. Daha yakın ve iyi aydınlatılmış bir fotoğraf deneyin veya bilgileri elle girin."
+  },
+  "The improved reader could not start. Your photo is preserved. Try reading again.": {
+    "cs": "Vylepšené čtení se nepodařilo spustit. Fotografie byla zachována. Zkuste ji načíst znovu.",
+    "tr": "Geliştirilmiş okuyucu başlatılamadı. Fotoğraf korundu. Yeniden okumayı deneyin."
+  },
+  "JPG, PNG, WebP, PDF · Select multiple files": {
+    "cs": "JPG, PNG, WebP, PDF · Vyberte více souborů",
+    "tr": "JPG, PNG, WebP, PDF · Birden fazla dosya seçebilirsiniz"
+  },
+  "Reading documents in the background": {
+    "cs": "Čtení dokladů na pozadí",
+    "tr": "Belgeler arka planda okunuyor"
+  },
+  "You can add another photo or switch documents while reading.": {
+    "cs": "Během čtení můžete přidat další fotografii nebo přepnout doklad.",
+    "tr": "Okuma sürerken başka fotoğraf ekleyebilir veya belgeler arasında geçiş yapabilirsiniz."
+  },
+  "{count} remaining": {
+    "cs": "Zbývá: {count}",
+    "tr": "Kalan: {count}"
+  },
+  "Stop current reading": {
+    "cs": "Zastavit aktuální čtení",
+    "tr": "Bu okumayı durdur"
+  },
+  "Reading": {
+    "cs": "Čtení",
+    "tr": "Okunuyor"
+  },
+  "Reading stopped. Your photo is saved; complete the details or read it again.": {
+    "cs": "Čtení bylo zastaveno. Fotografie je uložená; doplňte údaje nebo ji načtěte znovu.",
+    "tr": "Okuma durdu. Fotoğrafınız kayıtlı; bilgileri doldurabilir veya yeniden okutabilirsiniz."
+  },
+  "Could not add {name}: {message}": {
+    "cs": "Soubor {name} nelze přidat: {message}",
+    "tr": "{name} eklenemedi: {message}"
+  },
+  "Select a PDF with up to 20 pages.": {
+    "cs": "Vyberte PDF s nejvýše 20 stranami.",
+    "tr": "En fazla 20 sayfalık bir PDF seçin."
+  },
+  "The edited Excel file contains invalid document details. Check the Items sheet.": {
+    "cs": "Upravený Excel obsahuje neplatné údaje. Zkontrolujte list Položky.",
+    "tr": "Düzenlenen Excel geçersiz belge bilgileri içeriyor. Kalemler sayfasını kontrol edin."
+  },
+  "Enter a valid document date.": {
+    "cs": "Zadejte platné datum dokladu.",
+    "tr": "Geçerli bir belge tarihi girin."
+  },
+  "Choose a supported currency.": {
+    "cs": "Vyberte podporovanou měnu.",
+    "tr": "Desteklenen bir para birimi seçin."
+  },
+  "Row {row}: the calculated amount is too large.": {
+    "cs": "Řádek {row}: vypočtená částka je příliš vysoká.",
+    "tr": "Satır {row}: hesaplanan tutar çok büyük."
+  },
+  "This file changed while you were editing. Reopen it to keep the latest changes.": {
+    "cs": "Soubor byl během úprav změněn. Otevřete jej znovu, aby se zachovaly nejnovější změny.",
+    "tr": "Siz düzenlerken bu dosya değişti. Son değişiklikleri korumak için dosyayı yeniden açın."
+  },
+  "Enter manually": {
+    "cs": "Zadat ručně",
+    "tr": "Elle belge oluştur"
+  },
+  "Edit documents": {
+    "cs": "Upravit doklady",
+    "tr": "Belgeleri düzenle"
+  },
+  "Edit rows": {
+    "cs": "Upravit položky",
+    "tr": "Satırları düzenle"
+  },
+  "Edit document": {
+    "cs": "Upravit doklad",
+    "tr": "Belgeyi düzenle"
+  },
+  "Save changes": {
+    "cs": "Uložit změny",
+    "tr": "Değişiklikleri kaydet"
+  },
+  "Changes saved. Excel, PDF and images are updated.": {
+    "cs": "Změny byly uloženy. Excel, PDF a obrázky jsou aktualizovány.",
+    "tr": "Değişiklikler kaydedildi. Excel, PDF ve görseller güncellendi."
+  },
+  "Edit quantities and prices here. Totals update immediately.": {
+    "cs": "Zde upravte množství a ceny. Součty se ihned přepočítají.",
+    "tr": "Miktar ve fiyatları burada düzenleyin. Toplamlar anında güncellenir."
+  },
+  "Find a document": {
+    "cs": "Najít doklad",
+    "tr": "Belge bul"
+  },
+  "No matching documents.": {
+    "cs": "Žádné odpovídající doklady.",
+    "tr": "Eşleşen belge bulunamadı."
+  },
+  "No files match your search.": {
+    "cs": "Vyhledávání neodpovídají žádné soubory.",
+    "tr": "Aramanızla eşleşen dosya yok."
+  },
+  "Clear search": {
+    "cs": "Vymazat hledání",
+    "tr": "Aramayı temizle"
+  },
+  "Rename file": {
+    "cs": "Přejmenovat soubor",
+    "tr": "Dosyayı yeniden adlandır"
+  },
+  "Replace photo": {
+    "cs": "Nahradit fotografii",
+    "tr": "Fotoğrafı değiştir"
+  },
+  "Previous photos": {
+    "cs": "Předchozí fotografie",
+    "tr": "Önceki fotoğraflar"
+  },
+  "Restore this photo": {
+    "cs": "Obnovit tuto fotografii",
+    "tr": "Bu fotoğrafı geri getir"
+  },
+  "Current photo": {
+    "cs": "Aktuální fotografie",
+    "tr": "Güncel fotoğraf"
+  },
+  "Photo replaced. Your details and previous photo were kept.": {
+    "cs": "Fotografie byla nahrazena. Údaje i předchozí fotografie zůstaly zachovány.",
+    "tr": "Fotoğraf değiştirildi. Bilgileriniz ve önceki fotoğraf korundu."
+  },
+  "Choose a JPG, PNG or WebP photo.": {
+    "cs": "Vyberte fotografii JPG, PNG nebo WebP.",
+    "tr": "JPG, PNG veya WebP fotoğrafı seçin."
+  },
+  "Zoom in": {
+    "cs": "Přiblížit",
+    "tr": "Yakınlaştır"
+  },
+  "Zoom out": {
+    "cs": "Oddálit",
+    "tr": "Uzaklaştır"
+  },
+  "Fit to screen": {
+    "cs": "Přizpůsobit obrazovce",
+    "tr": "Ekrana sığdır"
+  },
+  "Check total": {
+    "cs": "Zkontrolovat součet",
+    "tr": "Toplamı kontrol et"
+  },
+  "{ready} ready, {pending} need review": {
+    "cs": "{ready} připraveno, {pending} vyžaduje kontrolu",
+    "tr": "{ready} hazır, {pending} belge kontrol bekliyor"
+  },
+  "Save selection": {
+    "cs": "Uložit výběr",
+    "tr": "Kaydedilecek belgeler"
+  },
+  "This document only": {
+    "cs": "Pouze tento doklad",
+    "tr": "Yalnızca bu belge"
+  },
+  "All ready documents": {
+    "cs": "Všechny připravené doklady",
+    "tr": "Hazır olan tüm belgeler"
+  },
+  "All pending documents": {
+    "cs": "Všechny čekající doklady",
+    "tr": "Bekleyen tüm belgeler"
+  },
+  "{count} documents will stay in review.": {
+    "cs": "{count} dokladů zůstane ke kontrole.",
+    "tr": "{count} belge kontrol ekranında kalacak."
+  },
+  "Save this document": {
+    "cs": "Uložit tento doklad",
+    "tr": "Bu belgeyi kaydet"
+  },
+  "Incomplete rows are not included in the displayed total.": {
+    "cs": "Neúplné položky nejsou zahrnuty do zobrazeného součtu.",
+    "tr": "Eksik satırlar gösterilen toplama dahil edilmez."
+  },
+  "Correct the highlighted fields.": {
+    "cs": "Opravte zvýrazněná pole.",
+    "tr": "İşaretli alanları düzeltin."
+  },
+  "File renamed.": {
+    "cs": "Soubor byl přejmenován.",
+    "tr": "Dosya yeniden adlandırıldı."
+  },
+  "Enter a file name.": {
+    "cs": "Zadejte název souboru.",
+    "tr": "Dosya adını girin."
+  },
+  "Source photo history is kept in your backup.": {
+    "cs": "Historie zdrojových fotografií se zachová v záloze.",
+    "tr": "Kaynak fotoğrafların geçmişi yedeğinizde korunur."
+  },
+  "Before saving, compare the calculated totals with the source documents.": {
+    "cs": "Před uložením porovnejte vypočtené součty se zdrojovými doklady.",
+    "tr": "Kaydetmeden önce hesaplanan toplamları kaynak belgelerle karşılaştırın."
+  },
+  "Cancel editing": {
+    "cs": "Zrušit úpravy",
+    "tr": "Düzenlemeyi iptal et"
+  },
+  "Choose from gallery": {
+    "cs": "Vybrat z galerie",
+    "tr": "Galeriden seç"
+  },
+  "Choose files": {
+    "cs": "Vybrat soubory",
+    "tr": "Dosya seç"
+  },
+  "Choose files instead": {
+    "cs": "Místo toho vybrat soubory",
+    "tr": "Dosyalardan seç"
+  },
+  "Choose photos from your gallery or browse files on your device.": {
+    "cs": "Vyberte fotografie z galerie nebo procházejte soubory v zařízení.",
+    "tr": "Galerinizden fotoğraf seçin veya cihazınızdaki dosyalara göz atın."
+  },
+  "Close photo selection": {
+    "cs": "Zavřít výběr fotografií",
+    "tr": "Fotoğraf seçimini kapat"
+  },
+  "Close warning": {
+    "cs": "Zavřít upozornění",
+    "tr": "Uyarıyı kapat"
+  },
+  "Try again": {
+    "cs": "Zkusit znovu",
+    "tr": "Tekrar dene"
+  },
+  "Open app settings": {
+    "cs": "Otevřít nastavení aplikace",
+    "tr": "Uygulama ayarlarını aç"
+  },
+  "Camera permission is required": {
+    "cs": "Je vyžadováno oprávnění k fotoaparátu",
+    "tr": "Kamera izni gerekiyor"
+  },
+  "Photo access is not allowed": {
+    "cs": "Přístup k fotografii není povolen",
+    "tr": "Fotoğrafa erişim izni verilmedi"
+  },
+  "Could not open the camera": {
+    "cs": "Fotoaparát nelze otevřít",
+    "tr": "Kamera açılamadı"
+  },
+  "Could not open photos": {
+    "cs": "Fotografie nelze otevřít",
+    "tr": "Fotoğraflar açılamadı"
+  },
+  "Camera permission was not granted. Allow Camera in the app permissions, then return and try again.": {
+    "cs": "Oprávnění k fotoaparátu nebylo uděleno. Povolte fotoaparát v oprávněních aplikace, poté se vraťte a zkuste to znovu.",
+    "tr": "Kamera izni verilmedi. Uygulama izinlerinden Kamera iznini açın, ardından geri dönüp tekrar deneyin."
+  },
+  "Access to the selected photo was denied. Select the photo again to allow access, or check the app permissions in Settings.": {
+    "cs": "Přístup k vybrané fotografii byl zamítnut. Vyberte fotografii znovu a povolte přístup nebo zkontrolujte oprávnění aplikace v Nastavení.",
+    "tr": "Seçilen fotoğrafa erişim izni verilmedi. Erişim vermek için fotoğrafı yeniden seçin veya Ayarlar'dan uygulama izinlerini kontrol edin."
+  },
+  "Your documents are safe. You can continue without granting permission.": {
+    "cs": "Vaše doklady jsou v bezpečí. Můžete pokračovat i bez udělení oprávnění.",
+    "tr": "Belgeleriniz güvende. İzin vermeden de uygulamayı kullanmaya devam edebilirsiniz."
+  },
+  "A photo picker is already open.": {
+    "cs": "Výběr fotografií je již otevřený.",
+    "tr": "Fotoğraf seçici zaten açık."
+  },
+  "No photo or file picker is available on this device.": {
+    "cs": "V tomto zařízení není dostupný výběr fotografií ani souborů.",
+    "tr": "Bu cihazda fotoğraf veya dosya seçici bulunamadı."
+  },
+  "Access to the selected photo was denied.": {
+    "cs": "Přístup k vybrané fotografii byl zamítnut.",
+    "tr": "Seçilen fotoğrafa erişim izni verilmedi."
+  },
+  "Could not open the photo picker. Please try again.": {
+    "cs": "Výběr fotografií nelze otevřít. Zkuste to znovu.",
+    "tr": "Fotoğraf seçici açılamadı. Lütfen tekrar deneyin."
+  },
+  "Could not read the selected files. Please select them again.": {
+    "cs": "Vybrané soubory nelze přečíst. Vyberte je znovu.",
+    "tr": "Seçilen dosyalar okunamadı. Lütfen yeniden seçin."
+  },
+  "Could not open app settings. Open Settings on your device and allow access for Invoice Atelier.": {
+    "cs": "Nastavení aplikace nelze otevřít. Otevřete Nastavení v zařízení a povolte přístup pro Invoice Atelier.",
+    "tr": "Uygulama ayarları açılamadı. Cihazınızın Ayarlar bölümünü açıp Invoice Atelier için izin verin."
+  },
+  "Some selected documents need review. Choose ready documents or finish their details.": {
+    "cs": "Některé vybrané doklady vyžadují kontrolu. Vyberte připravené doklady nebo doplňte jejich údaje.",
+    "tr": "Seçilen bazı belgeler kontrol bekliyor. Hazır belgeleri seçin veya eksik bilgileri tamamlayın."
+  },
+  "File {current} of {total}": {
+    "cs": "Soubor {current} z {total}",
+    "tr": "Dosya {current} / {total}"
+  },
+  "Improving photo recognition": {
+    "cs": "Zlepšování rozpoznávání fotografie",
+    "tr": "Fotoğraf okuması iyileştiriliyor"
+  },
+  "No.": {
+    "cs": "Č.",
+    "tr": "No."
+  },
+  "All document details and calculations are on this sheet. Edit the blue cells.": {
+    "cs": "Všechny údaje dokladů a výpočty jsou na tomto listu. Upravujte modré buňky.",
+    "tr": "Tüm belge bilgileri ve hesaplamalar bu sayfada. Mavi hücreleri düzenleyebilirsiniz."
+  },
+  "The edited Excel file contains invalid document details. Check the document sheet.": {
+    "cs": "Upravený soubor Excel obsahuje neplatné údaje. Zkontrolujte list s doklady.",
+    "tr": "Düzenlenen Excel dosyasında geçersiz belge bilgileri var. Belge sayfasını kontrol edin."
+  },
+  "Invalid fixed document details.": {
+    "cs": "Neplatné přednastavené údaje dokladů.",
+    "tr": "Sabit belge bilgileri geçersiz."
+  },
+  "Fixed document details": {
+    "cs": "Přednastavené údaje dokladů",
+    "tr": "Sabit belge bilgileri"
+  },
+  "Save the company and delivery details you use repeatedly.": {
+    "cs": "Uložte si opakovaně používané firemní a dodací údaje.",
+    "tr": "Sık kullandığınız firma ve teslim bilgilerini kaydedin."
+  },
+  "Use these details for new documents": {
+    "cs": "Používat tyto údaje pro nové doklady",
+    "tr": "Bu bilgileri yeni belgelerde kullan"
+  },
+  "Only empty fields are filled. Details read from photos and existing archive records are kept.": {
+    "cs": "Doplňují se pouze prázdná pole. Údaje přečtené z fotografií a stávající záznamy archivu zůstanou zachovány.",
+    "tr": "Yalnızca boş alanlar doldurulur. Fotoğraftan okunan bilgiler ve arşivdeki kayıtlar korunur."
+  },
+  "Default currency": {
+    "cs": "Výchozí měna",
+    "tr": "Varsayılan para birimi"
+  },
+  "Tax IDs and addresses apply only to the matching company.": {
+    "cs": "Daňová čísla a adresy se použijí pouze pro odpovídající firmu.",
+    "tr": "Vergi bilgileri ve adresler yalnızca eşleşen firma için kullanılır."
+  },
+  "LANGUAGES AND FIXED DETAILS": {
+    "cs": "JAZYKY A PŘEDNASTAVENÉ ÚDAJE",
+    "tr": "DİLLER VE SABİT BİLGİLER"
+  },
+  "Choose languages and save fixed company details for new documents.": {
+    "cs": "Zvolte jazyky a uložte přednastavené firemní údaje pro nové doklady.",
+    "tr": "Dilleri seçin ve yeni belgelerde kullanılacak sabit firma bilgilerini kaydedin."
+  },
+  "Use the currency in the photo": {
+    "cs": "Použít měnu z fotografie",
+    "tr": "Fotoğraftaki para birimini kullan"
+  },
+  "Save fixed details": {
+    "cs": "Uložit přednastavené údaje",
+    "tr": "Sabit bilgileri kaydet"
+  },
+  "Could not save fixed details. Please try again.": {
+    "cs": "Přednastavené údaje se nepodařilo uložit. Zkuste to znovu.",
+    "tr": "Sabit bilgiler kaydedilemedi. Lütfen tekrar deneyin."
+  },
+  "Fixed details saved on this device.": {
+    "cs": "Přednastavené údaje byly uloženy v tomto zařízení.",
+    "tr": "Sabit bilgiler bu cihaza kaydedildi."
+  },
+  "Fill empty fields in pending documents": {
+    "cs": "Doplnit prázdná pole rozpracovaných dokladů",
+    "tr": "Bekleyen belgelerin boş alanlarını doldur"
+  },
+  "Empty fields in pending documents were filled.": {
+    "cs": "Prázdná pole rozpracovaných dokladů byla doplněna.",
+    "tr": "Bekleyen belgelerin boş alanları dolduruldu."
+  },
+  "Reading text": {
+    "cs": "Rozpoznávání textu",
+    "tr": "Metin okunuyor"
+  }
+}

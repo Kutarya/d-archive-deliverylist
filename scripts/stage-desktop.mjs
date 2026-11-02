@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const pkg=JSON.parse(await fs.readFile('package.json','utf8'));
+const stagedDist=path.resolve('packaging/app/dist');
+if(stagedDist!==path.join(process.cwd(),'packaging','app','dist'))throw new Error('Unexpected staging path');
+await fs.rm(stagedDist,{recursive:true,force:true});
+await fs.mkdir('packaging/app',{recursive:true});
+await fs.cp('dist','packaging/app/dist',{recursive:true});
+await fs.cp('electron','packaging/app/electron',{recursive:true});
+await fs.writeFile('packaging/app/package.json',JSON.stringify({name:pkg.name,version:pkg.version,main:pkg.main,description:pkg.description,author:pkg.author},null,2));
+console.log(`Standalone desktop app ${pkg.version} staged.`);

@@ -1,0 +1,26 @@
+{
+  "sdk": "@paddleocr/paddleocr-js@0.4.2",
+  "models": [
+    {
+      "name": "PP-OCRv6_tiny_det",
+      "file": "models/PP-OCRv6_tiny_det.tar",
+      "url": "https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv6_tiny_det_onnx_infer.tar",
+      "bytes": 1792000,
+      "sha256": "ff6ab415b0a6e0c488550f2fb5d5046f1719848df220b2dc21b56402a65bc05d"
+    },
+    {
+      "name": "PP-OCRv6_small_rec",
+      "file": "models/PP-OCRv6_small_rec.tar",
+      "url": "https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv6_small_rec_onnx_infer.tar",
+      "bytes": 21319680,
+      "sha256": "d267ab077a44a0eedb1ea8f8c542d263f211de8e9d7a029bf9fcfff7e5a88fb1"
+    },
+    {
+      "name": "en_PP-OCRv5_mobile_rec",
+      "file": "models/en_PP-OCRv5_mobile_rec.tar",
+      "url": "https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/en_PP-OCRv5_mobile_rec_onnx_infer.tar",
+      "bytes": 7874560,
+      "sha256": "4424e851309b291b00aab8191cd4314cefbd2d1b2381ff8994019d262fa95e28"
+    }
+  ]
+}

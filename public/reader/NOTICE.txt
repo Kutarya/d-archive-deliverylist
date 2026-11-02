@@ -1,0 +1,10 @@
+PaddleOCR.js and PP-OCR models: PaddlePaddle Authors, Apache-2.0.
+https://github.com/PaddlePaddle/PaddleOCR
+
+ONNX Runtime Web: Microsoft, MIT.
+https://github.com/microsoft/onnxruntime
+
+OpenCV.js: OpenCV contributors, Apache-2.0.
+https://github.com/opencv/opencv
+
+All OCR models and runtime files are bundled. Document photos are processed locally.
